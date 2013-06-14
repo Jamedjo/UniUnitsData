@@ -1,59 +1,59 @@
 [
- { id: "ACCG10052", stage: "1", title: "Introduction to Accounting"}
-,{ id: "COMS11300", stage: "1", title: "Procedural Programming"}
-,{ id: "COMS11600", stage: "1", title: "Principles of Programming"}
-,{ id: "COMS11700", stage: "1", title: "Theory of Computation"}
-,{ id: "COMS12303", stage: "1", title: "Origins of Computer Science"}
-,{ id: "COMS12400", stage: "1", title: "Object Oriented and Functional Programming"}
-,{ id: "COMS12500", stage: "1", title: "Computer Networks"}
-,{ id: "COMS12600", stage: "1", title: "Introduction to Computer Architecture"}
-,{ id: "COMS12700", stage: "1", title: "Introduction to Microelectronics"}
-,{ id: "COMS12900", stage: "1", title: "High-Tech Enterprise"}
-,{ id: "COMS30003", stage: "1", title: "Computational Bioinformatics"}
-,{ id: "EMAT10704", stage: "1", title: "Discrete Mathematics"}
-,{ id: "EMAT10720", stage: "1", title: "Continuous Mathematics for Computer Science"}
-,{ id: "COMS20600", stage: "2", title: "Concurrency"}
-,{ id: "COMS20700", stage: "2", title: "Databases"}
-,{ id: "COMS20804", stage: "2", title: "Career Management Skills"}
-,{ id: "COMS20805", stage: "2", title: "Software Product Engineering"}
-,{ id: "COMS21103", stage: "2", title: "Data Structures and Algorithms"}
-,{ id: "COMS21202", stage: "2", title: "Symbols, Patterns and Signals"}
-,{ id: "COMS21301", stage: "2", title: "Human-Computer Interaction"}
-,{ id: "COMS21400", stage: "2", title: "Topics in Theoretical Computer Science"}
-,{ id: "COMS22303", stage: "2", title: "Language Engineering"}
-,{ id: "COMS30002", stage: "3", title: "Cryptography A"}
-,{ id: "COMS30003", stage: "3", title: "Computational Bioinformatics"}
-,{ id: "COMS30106", stage: "3", title: "Artificial Intelligence with Logic Programming"}
-,{ id: "COMS30115", stage: "3", title: "Computer Graphics "}
-,{ id: "COMS30121", stage: "3", title: "Image Processing and Computer Vision"}
-,{ id: "COMS30127", stage: "3", title: "Computational Neuroscience"}
-,{ id: "COMS30301", stage: "3", title: "Introduction to Machine Learning"}
-,{ id: "COMS30900", stage: "3", title: "Communication Studies "}
-,{ id: "COMS30901", stage: "3", title: "Applied Security"}
-,{ id: "COMS31000", stage: "3", title: "Character and Set Design"}
-,{ id: "COMS31700", stage: "3", title: "Design Verification "}
-,{ id: "COMS31900", stage: "3", title: "Advanced Algorithms "}
-,{ id: "COMS32300", stage: "3", title: "Sustainability, Technology and Business "}
-,{ id: "COMS32500", stage: "3", title: "Web Technologies"}
-,{ id: "COMS35101", stage: "3", title: "High Performance Computing"}
-,{ id: "COMS35102", stage: "3", title: "Embedded System Integration"}
-,{ id: "COMSM0001", stage: "4", title: "Production Project"}
-,{ id: "COMSM0006", stage: "4", title: "Sustainability, Technology and Business"}
-,{ id: "COMSM0007", stage: "4", title: "Cryptography B"}
-,{ id: "COMSM0009", stage: "4", title: "Interactive Devices"}
-,{ id: "COMSM0010", stage: "4", title: "Cloud Computing"}
-,{ id: "COMSM0106", stage: "4", title: "Mobile and Ubiquitous Computing"}
-,{ id: "COMSM0109", stage: "4", title: "Advanced Computer Architecture"}
-,{ id: "COMSM0125", stage: "4", title: "Fault Tolerant Computing and VLSI Testing"}
-,{ id: "COMSM0305", stage: "4", title: "Learning in Autonomous Systems"}
-,{ id: "COMSM1105", stage: "4", title: "Animation Production"}
-,{ id: "COMSM1500", stage: "4", title: "Systems Security"}
-,{ id: "COMSM2001", stage: "4", title: "Server Software"}
-,{ id: "COMSM2005", stage: "4", title: "Law and IT"}
-,{ id: "COMSM2006", stage: "4", title: "Algorithmic and Economic Aspects of the Internet"}
-,{ id: "COMSM4111", stage: "4", title: "Robotic Systems"}
-,{ id: "EMATM0004", stage: "4", title: "Computational Genomics and Bioinformatics Algorithms"}
-,{ id: "EMATM1120", stage: "4", title: "Uncertainty Modelling for Intelligent Systems"}
-,{ id: "EMATM1400", stage: "4", title: "Pattern Analysis and Statistical Learning"}
+ { "id": "ACCG10052", "stage": "1", "title": "Introduction to Accounting"}
+,{ "id": "COMS11300", "stage": "1", "title": "Procedural Programming"}
+,{ "id": "COMS11600", "stage": "1", "title": "Principles of Programming"}
+,{ "id": "COMS11700", "stage": "1", "title": "Theory of Computation"}
+,{ "id": "COMS12303", "stage": "1", "title": "Origins of Computer Science"}
+,{ "id": "COMS12400", "stage": "1", "title": "Object Oriented and Functional Programming"}
+,{ "id": "COMS12500", "stage": "1", "title": "Computer Networks"}
+,{ "id": "COMS12600", "stage": "1", "title": "Introduction to Computer Architecture"}
+,{ "id": "COMS12700", "stage": "1", "title": "Introduction to Microelectronics"}
+,{ "id": "COMS12900", "stage": "1", "title": "High-Tech Enterprise"}
+,{ "id": "COMS30003", "stage": "1", "title": "Computational Bioinformatics"}
+,{ "id": "EMAT10704", "stage": "1", "title": "Discrete Mathematics"}
+,{ "id": "EMAT10720", "stage": "1", "title": "Continuous Mathematics for Computer Science"}
+,{ "id": "COMS20600", "stage": "2", "title": "Concurrency"}
+,{ "id": "COMS20700", "stage": "2", "title": "Databases"}
+,{ "id": "COMS20804", "stage": "2", "title": "Career Management Skills"}
+,{ "id": "COMS20805", "stage": "2", "title": "Software Product Engineering"}
+,{ "id": "COMS21103", "stage": "2", "title": "Data Structures and Algorithms"}
+,{ "id": "COMS21202", "stage": "2", "title": "Symbols, Patterns and Signals"}
+,{ "id": "COMS21301", "stage": "2", "title": "Human-Computer Interaction"}
+,{ "id": "COMS21400", "stage": "2", "title": "Topics in Theoretical Computer Science"}
+,{ "id": "COMS22303", "stage": "2", "title": "Language Engineering"}
+,{ "id": "COMS30002", "stage": "3", "title": "Cryptography A"}
+,{ "id": "COMS30003", "stage": "3", "title": "Computational Bioinformatics"}
+,{ "id": "COMS30106", "stage": "3", "title": "Artificial Intelligence with Logic Programming"}
+,{ "id": "COMS30115", "stage": "3", "title": "Computer Graphics "}
+,{ "id": "COMS30121", "stage": "3", "title": "Image Processing and Computer Vision"}
+,{ "id": "COMS30127", "stage": "3", "title": "Computational Neuroscience"}
+,{ "id": "COMS30301", "stage": "3", "title": "Introduction to Machine Learning"}
+,{ "id": "COMS30900", "stage": "3", "title": "Communication Studies "}
+,{ "id": "COMS30901", "stage": "3", "title": "Applied Security"}
+,{ "id": "COMS31000", "stage": "3", "title": "Character and Set Design"}
+,{ "id": "COMS31700", "stage": "3", "title": "Design Verification "}
+,{ "id": "COMS31900", "stage": "3", "title": "Advanced Algorithms "}
+,{ "id": "COMS32300", "stage": "3", "title": "Sustainability, Technology and Business "}
+,{ "id": "COMS32500", "stage": "3", "title": "Web Technologies"}
+,{ "id": "COMS35101", "stage": "3", "title": "High Performance Computing"}
+,{ "id": "COMS35102", "stage": "3", "title": "Embedded System Integration"}
+,{ "id": "COMSM0001", "stage": "4", "title": "Production Project"}
+,{ "id": "COMSM0006", "stage": "4", "title": "Sustainability, Technology and Business"}
+,{ "id": "COMSM0007", "stage": "4", "title": "Cryptography B"}
+,{ "id": "COMSM0009", "stage": "4", "title": "Interactive Devices"}
+,{ "id": "COMSM0010", "stage": "4", "title": "Cloud Computing"}
+,{ "id": "COMSM0106", "stage": "4", "title": "Mobile and Ubiquitous Computing"}
+,{ "id": "COMSM0109", "stage": "4", "title": "Advanced Computer Architecture"}
+,{ "id": "COMSM0125", "stage": "4", "title": "Fault Tolerant Computing and VLSI Testing"}
+,{ "id": "COMSM0305", "stage": "4", "title": "Learning in Autonomous Systems"}
+,{ "id": "COMSM1105", "stage": "4", "title": "Animation Production"}
+,{ "id": "COMSM1500", "stage": "4", "title": "Systems Security"}
+,{ "id": "COMSM2001", "stage": "4", "title": "Server Software"}
+,{ "id": "COMSM2005", "stage": "4", "title": "Law and IT"}
+,{ "id": "COMSM2006", "stage": "4", "title": "Algorithmic and Economic Aspects of the Internet"}
+,{ "id": "COMSM4111", "stage": "4", "title": "Robotic Systems"}
+,{ "id": "EMATM0004", "stage": "4", "title": "Computational Genomics and Bioinformatics Algorithms"}
+,{ "id": "EMATM1120", "stage": "4", "title": "Uncertainty Modelling for Intelligent Systems"}
+,{ "id": "EMATM1400", "stage": "4", "title": "Pattern Analysis and Statistical Learning"}
 ]
 
